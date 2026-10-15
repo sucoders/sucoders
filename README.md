@@ -1,6 +1,4 @@
-Berikut adalah **full 1 kode utuh** dari file `README.md` bertema hacker cyberpunk tadi, sudah digabung lengkap tanpa terpotong.
 
-Kamu bisa langsung klik tombol *copy* di pojok kanan atas blok kode di bawah, lalu *paste* ke file `README.md` di profil GitHub kamu (jangan lupa ubah `USERNAME_KAMU` dengan username GitHub kamu yang asli).
 
 ```markdown
 <h1 align="center">
